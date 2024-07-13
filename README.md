@@ -12,3 +12,6 @@ Here's a glimpse of what the dashboard offers:
 
 ➡️ A comprehensive table highlighting sales figures, YOY growth, units sold, and average freight value for top cities.
 
+# Dashboard Screenshot
+
+![Screenshot](/Olist_Summary.png)
